@@ -27,7 +27,7 @@ $dompdf->loadHtml('
     <p> PDF com os produtos comprados  </p>
     <b> Produtos: </b>
     <br>
-    '.$nome.'
+    '.$nome.' 
     <br><br><br>
     <b>Preço Total: </b> R$ '.$total.'
     
